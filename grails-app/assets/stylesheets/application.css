@@ -1,0 +1,32 @@
+/*
+* This is a manifest file that'll be compiled into application.css, which will include all the files
+* listed below.
+*
+* Any CSS file within this directory can be referenced here using a relative path.
+*
+* You're free to add application-wide styles to this file and they'll appear at the top of the
+* compiled file, but it's generally better to create a new file per style scope.
+*
+*= require companySharingInternal.css
+*= require ../bower-components/gentelella/vendors/bootstrap/dist/css/bootstrap.css
+*= require ../bower-components/gentelella/vendors/font-awesome/css/font-awesome.min.css
+*= require ../bower-components/gentelella/vendors/iCheck/skins/flat/blue.css
+*= require ../bower-components/gentelella/vendors/google-code-prettify/bin/prettify.min.css
+*= require ../bower-components/gentelella/vendors/select2/dist/css/select2.min.css
+*= require ../bower-components/gentelella/vendors/switchery/dist/switchery.min.css
+*= require ../bower-components/gentelella/vendors/starrr/dist/starrr.css
+*= require ../bower-components/gentelella/vendors/pnotify/dist/pnotify.css
+*= require ../bower-components/gentelella/vendors/dropzone/dist/dropzone.css
+*= require ../bower-components/gentelella/vendors/bootstrap-daterangepicker/daterangepicker.css
+*= require ../bower-components/gentelella/build/css/custom.min.css
+
+
+*= require ../bower-components/gentelella/vendors/datatables.net-bs/css/dataTables.bootstrap.min.css
+*= require ../bower-components/gentelella/vendors/datatables.net-buttons-bs/css/buttons.bootstrap.min.css
+*= require ../bower-components/gentelella/vendors/datatables.net-fixedheader-bs/css/fixedHeader.bootstrap.min.css
+*= require ../bower-components/gentelella/vendors/datatables.net-responsive-bs/css/responsive.bootstrap.min.css
+*= require ../bower-components/gentelella/vendors/datatables.net-scroller-bs/css/scroller.bootstrap.min.css
+
+*= require trix/trix.css
+
+*/
